@@ -1,2 +1,2 @@
 # Descriptive-Statistics
-Code repostiory of the course descriptive statistics for data science in fall 2026
+Code repository for the course Descriptive Statistics for Data Science in fall 2026, Vanier College
